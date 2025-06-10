@@ -1,4 +1,4 @@
-# 🛒 MiniMarket Console App – Code in Place 2025 (Stanford)
+# 🛒 MiniMarket Console App – Code in Place 2025 (Univ. Stanford)
 
 ## 🇬🇧 English
 
