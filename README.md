@@ -14,7 +14,8 @@ The project simulates a simple minimarket where users can:
 All features are accessible through a text-based menu in the terminal.
 
 ---
-![image](https://github.com/user-attachments/assets/1fe075ea-958c-415b-bcb7-74359e3fca0f)
+![image](https://github.com/user-attachments/assets/d9918cda-520a-420b-a883-d56d37fced38)
+
 
 ### 🔧 Technologies Used
 
