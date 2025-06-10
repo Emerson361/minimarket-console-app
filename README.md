@@ -1,5 +1,14 @@
 # 🛒 MiniMarket Console App – Code in Place 2025 (Univ. Stanford)
 
+## 📽️ Project Demo (English & Español)
+
+Click the image below to watch the video demo of the MiniMarket Console App.  
+Haz clic en la imagen para ver la demostración en video de la aplicación de consola MiniMarket.
+
+[![Watch the demo](https://img.youtube.com/vi/ZpB7oDqYOh4/0.jpg)](https://youtu.be/ZpB7oDqYOh4)
+
+---
+
 ## 🇬🇧 English
 
 This is a basic console application developed as part of the **"Code in Place 2025"** course offered by **Stanford University**.
