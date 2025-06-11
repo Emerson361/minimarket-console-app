@@ -39,7 +39,7 @@ All features are accessible through a text-based menu in the terminal.
 - Remove items from the cart
 - Finalize the purchase and clear the cart
 
-----
+---
 
 ### 📚 About the Course
 
